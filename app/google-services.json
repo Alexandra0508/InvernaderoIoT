@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808716331418",
+    "project_id": "invernaderoiot-3bd70",
+    "storage_bucket": "invernaderoiot-3bd70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808716331418:android:9c3235e7ac8771251c7223",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOOOL2G8Y7OjEKfaRc4ocNJlcEyQ5Y18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
